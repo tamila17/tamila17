@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Tamila
 
-<!--
-**tamila17/tamila17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Crypto enthusiast | Web3 explorer | Testnet participant
 
-Here are some ideas to get you started:
+I have been actively exploring the blockchain ecosystem for several years. My main interests include discovering new Web3 projects, participating in testnets, and researching blockchain technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Web3 Interests
+
+🔹 Layer 2 ecosystems
+🔹 Testnets and airdrops
+🔹 DeFi and NFT platforms
+🔹 Blockchain research
+
+---
+
+## ⚡ Currently Exploring
+
+* Base ecosystem
+* Ethereum Layer 2 networks
+* Web3 infrastructure projects
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamila17\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🚀 Goals
+
+My goal is to continue learning about blockchain technology and contribute to the growth of the Web3 ecosystem.
+
+---
+
+⭐ Always open to exploring new crypto projects and technologies.
